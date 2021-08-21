@@ -28,7 +28,11 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Prizes
 
-*Prizes for this tournament are to be decided.*
+| Placing | Prize(s) |
+| :---: | :--- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 3 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 months of osu!supporter |
 
 ## Organisation
 
@@ -61,6 +65,29 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 | Bottom (#25 - #32) | [didgey](https://osu.ppy.sh/users/11568208), [Loli-Sensei69](https://osu.ppy.sh/users/10994606), [Neoskiie](https://osu.ppy.sh/users/12239110), [Chez](https://osu.ppy.sh/users/4866112), [Batujitsu](https://osu.ppy.sh/users/6402552), [Chiaki-chan](https://osu.ppy.sh/users/9378968), [Xidorn](https://osu.ppy.sh/users/7904667), [Hues](https://osu.ppy.sh/users/2367206) |
 
 ## Mappools
+
+### Finals Week 2
+
+**[Download the mappack here! (110.0 MB)](https://drive.google.com/file/d/1B-XFD-22U3LSc8XOQtVkL19ShoaMYLFA/view?usp=sharing)**
+
+- FreeMod
+  - [Outsider - Acquaintance (Skwid) [1.15x]](https://osu.ppy.sh/beatmaps/1594748)
+  - [LUZE - 3.14 (TT mix) (snoverpk) [Arcane Geometry]](https://osu.ppy.sh/beatmaps/1089455)
+  - [keyc - blue traces (Kamikaze) [[*>w<*]]](https://osu.ppy.sh/beatmaps/1783808)
+  - [-45 - Bloody Malie (-Rem-) [Gore]](https://osu.ppy.sh/beatmaps/1715086)
+  - [Frums - Pictured as Perfect (qqqant) [i have no idea who i used to be]](https://osu.ppy.sh/beatmaps/2054126)
+  - [Jomekka - Eighto (Wh1teh) [k]](https://osu.ppy.sh/beatmaps/1237015)
+  - [Fearofdark - Polaris (Guilhermeziat) [Expert]](https://osu.ppy.sh/beatmaps/993393)
+  - [KikuoHana - Hibi Darake No Me (Gekido-) [Stabbing]](https://osu.ppy.sh/beatmaps/1576294)
+  - [Street Sects - And I Grew into Ribbons (Pope Gadget) [Drag]](https://osu.ppy.sh/beatmaps/1097269)
+  - [xi - Bad Elixir ([Crz]Crysarlene) [Merciless Judgement (nerfed)]](https://osu.ppy.sh/beatmaps/1991186)
+  - [Kommisar - Turkey Turkey (Gekido-) [LN Master]](https://osu.ppy.sh/beatmaps/1782630)
+  - [Helix6 - No. 6 ([Crz]Crysarlene) [X]](https://osu.ppy.sh/beatmaps/1843488)
+  - [Nanahoshi Kangengakudan - Talent Shredder (juankristal) [Timing Hell]](https://osu.ppy.sh/beatmaps/1783836)
+  - [((LMB)) - Buntan ~Falling in "B" mix~ (Tidek) [%UN%D3%R1%0Y]](https://osu.ppy.sh/beatmaps/1206728)
+  - [sakuraburst - deconstructing nature (Vortex-) [destruction]](https://osu.ppy.sh/beatmaps/1305926)
+- Tiebreaker
+  - **[Rawtekk - Amber's Love Was Like A Marble (Billain Remix) (Evening) [corrupted]](https://osu.ppy.sh/beatmaps/1770224)**
 
 ### Finals week 1
 
@@ -174,6 +201,33 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
   - [The Flashbulb - Passage D (SurfChu85) \[labyrinth\]](https://osu.ppy.sh/beatmapsets/977508#mania/2045880)
 
 ## Match results
+
+### FInals Week 2
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBdY3-MFdsRSCJsuRsE6c0gNzM7xfvfIx4fDhJHOXgkPX0Rdi0qqztAh6XyPi913xPP13MsIdkBnsl/pubhtml)
+
+| Saturday, 2019-07-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Koibenii | 3 | **7** | **- Kura -** | [#1](https://osu.ppy.sh/community/matches/53304618) |
+
+| Sunday, 2019-07-14 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Silhoueska Elze | 4 | **7** | **- Kura -** | [#1](https://osu.ppy.sh/community/matches/53330098) |
+| **- Kura -** | **7** | 4 | Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/53332229) |
+
+### Finals Week 1
+
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBELP03VARFkIDnuYthz-KfeWHDB35bR6aN-9PuiCeqtMJIK3tWPqCI70cV2ArZ1N-Muq3JeA68rZZ/pubhtml)
+
+| Saturday, 2019-07-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Swarmsii** | **7** | 2 | Arccat | [#1](https://osu.ppy.sh/community/matches/53143034) |
+| **- Kura -** | **7** | 3 | windrush123 | [#1](https://osu.ppy.sh/community/matches/53144459) |
+
+| Sunday, 2019-07-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **- Kura -** | **7** | 3 | Swarmsii | [#1](https://osu.ppy.sh/community/matches/53167161) |
+| **Silhoueska Elze** | **7** | 0 | Koibenii | [#1](https://osu.ppy.sh/community/matches/53168091) |
 
 ### Semifinals
 
